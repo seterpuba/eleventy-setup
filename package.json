@@ -1,5 +1,5 @@
 {
-  "name": "eleventy-crash-course",
+  "name": "eleventy-sass-setup",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "start": "npm run watch:sass & npm run watch:eleventy"
   },
   "keywords": [],
-  "author": "",
+  "author": "littlesticks, seterpuba",
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.0"
