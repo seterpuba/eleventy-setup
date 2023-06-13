@@ -1,0 +1,26 @@
+/* ### BREAKPOINTS ### */
+
+$breakpoint-tablet: 1024px;
+$breakpoint-mobile: 768px;
+
+$breakpoint-desktop-min: calc($breakpoint-tablet + 1px);
+$breakpoint-tablet-min: calc($breakpoint-mobile + 1px);
+
+
+/* ### GLOBAL ### */
+
+
+/* ### COLORS ### */
+
+
+/* main */
+
+
+/* ### FONTS ### */
+
+
+/* ### TRANSITIONS ### */
+
+$transition-time: .25s;
+$transition-all-classic: all $transition-time ease-in-out;
+

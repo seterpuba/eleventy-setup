@@ -1,4 +1,7 @@
-module.exports = function(eleventyConfig) {
+module.exports = function(config) {
+
+  config.addPassthroughCopy("./src/assets");
+
   return {
     dir: {
       input: 'src',
@@ -9,5 +12,6 @@ module.exports = function(eleventyConfig) {
     markdownTemplateEngine: 'njk',
     htmlTemplateEngine: 'njk',
     dataTemplateEngine: 'njk',
+    passthroughFileCopy: true
   };
 }
