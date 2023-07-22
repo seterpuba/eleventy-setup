@@ -1,6 +1,6 @@
 # Eleventy & Sass project setup
 
-These repo contains eleventy basic functionality and sass styles, also basic folder structure for my projects
+This repo contains eleventy basic functionality and sass styles, also basic folder structure for my projects
 
 Original repo:
 - **[eleventy-crash-course](https://github.com/littlesticks/eleventy-crash-course)**
